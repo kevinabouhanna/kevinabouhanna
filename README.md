@@ -19,8 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinabouhanna&layout=compact&hide=html" alt="kevinabouhanna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinabouhanna&show_icons=true" alt="kevinabouhanna" /></p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/kevinabouhanna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kevinabouhanna/" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" height="30" width="30" /></a>
