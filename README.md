@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">I have been designing, developing, and managing websites for more than four years. Throughout those years I have interacted and worked with a lot of clients, which further improved my skills in communication, problem solving, and time management. My current goal is to continue to pursue a deeper understanding of the science and psychology behind user experience design.</h3>
+<h3 align="center" style="font-weight: 400">I have been designing, developing, and managing websites for more than four years. Throughout those years I have interacted and worked with a lot of clients, which further improved my skills in communication, problem solving, and time management. My current goal is to continue to pursue a deeper understanding of the science and psychology behind user experience design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinabouhanna" alt="kevinabouhanna" /> </p>
 
@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinabouhanna&show_icons=true" alt="kevinabouhanna" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kevinabouhanna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kevinabouhanna/" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kevinabouhanna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/kevinabouhanna/" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10754827/kevin-abou-hanna?tab=profile" height="30" width="30" /></a>
 </p>
