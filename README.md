@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinabouhanna" alt="kevinabouhanna" /> </p>
 
-- 🔭 I’m currently working on [Kaklan](kaklan.cf)
+- 🔭 I’m currently working on [Kaklan](jiroachkarian/kaklan.cf)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m continuously challenging myself in **CSS**
 
 - 👨‍💻 All of my projects are available at [abouhanna.com](abouhanna.com)
 
