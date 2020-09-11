@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [abouhanna.com](abouhanna.com)
 
-- 📝 I regulary write articles on [freethinkers.com/author/kevin/](freethinkers.com/author/kevin/)
+- 📝 I regulary write articles on [freethinkers.com/author/kevin/](https://freethinkers.com/author/kevin/)
 
 - 💬 Ask me about **CSS**
 
