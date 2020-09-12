@@ -4,7 +4,7 @@
 
 - 🌱 I’m continuously challenging myself in **CSS**
 
-- 👨‍💻 All of my projects are available at [abouhanna.com](abouhanna.com)
+- 👨‍💻 All of my projects are available at [abouhanna.com](https://abouhanna.com)
 
 - 📝 I regulary write articles on [freethinkers.com/author/kevin/](https://freethinkers.com/author/kevin/)
 
