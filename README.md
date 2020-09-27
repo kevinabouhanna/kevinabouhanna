@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 
-- 🔭 I’m currently working on [Kaklan](jiroachkarian/kaklan.cf)
+- 🔭 I’m currently working on [Kaklan](https://github.com/jiroachkarian/kaklan.cf)
 
 - 🌱 I’m continuously challenging myself in **CSS**
 
