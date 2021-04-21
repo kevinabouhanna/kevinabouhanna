@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hey 👋, I'm Kevin</h1>
 
 - 🔭 I’m currently working with [Jiro](https://github.com/jiroachkarian) on [Kaklan](https://github.com/jiroachkarian/kaklan.cf)
 
@@ -6,8 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [abouhanna.com](https://abouhanna.com)
 
-- 📝 I regulary write articles on [freethinkers.com/author/kevin/](https://freethinkers.com/author/kevin/)
+- 📝 I sometimes write articles on [freethinkers.com/author/kevin/](https://freethinkers.com/author/kevin/)
 
 - 💬 Ask me about **CSS**
 
-- 📫 How to reach me **kevin@abouhanna.com**
+- 📫 Drop me an email at **kevin@abouhanna.com**
