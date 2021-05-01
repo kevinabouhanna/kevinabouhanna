@@ -6,8 +6,4 @@
 
 - 👨‍💻 All of my projects are available at [abouhanna.com](https://abouhanna.com)
 
-- 📝 I sometimes write articles on [freethinkers.com/author/kevin/](https://freethinkers.com/author/kevin/)
-
 - 💬 Ask me about **CSS**
-
-- 📫 Drop me an email at **kevin@abouhanna.com**
